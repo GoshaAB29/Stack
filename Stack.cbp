@@ -34,8 +34,10 @@
 		</Compiler>
 		<Unit filename="include/stack.h" />
 		<Unit filename="include/stack_settings.h" />
+		<Unit filename="include/stack_test.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="sourse/stack.cpp" />
+		<Unit filename="sourse/stack_test.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
